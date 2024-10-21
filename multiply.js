@@ -1,12 +1,9 @@
-// multiply.js
-function multiply(a, b) {
-    return 1; // Just enough code to pass the test
-}
+//Esther
+//shanitah
 
 // multiply.js
 function multiply(a, b) {
-    return a * b; // Update to perform multiplication
+    return a * b; // Multiply a and b and return the result
 }
 
-
-module.exports = multiply;
+module.exports = multiply; // Export the function for use in tests
